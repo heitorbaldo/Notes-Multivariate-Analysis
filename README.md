@@ -1,25 +1,16 @@
-# [Advanced Programming in C++](http://cyberneticsresearch.com/books.html)
-
-
-### By Heitor Baldo
+# Notes on Multivariate Analysis
 
 =================
-
 
 
 Table of Contents
 =================
 
-  * [Introduction](#ch-1-)
-  * [Ch 1: Handling Exceptions](#ch-2-)
-  * [Ch 2: Templates](#ch-2-)
-  * [Ch 3: Iterators](#ch-2-)
-  * [Ch 4: Containers](#ch-2-)
-  * [Ch 5: Patterns](#ch-2-)
-  
+  * 1 - [Introduction](#ch-1-)
+  * 2 - [PCA](#ch-2-)
 
+  
 ---
 
-## [Ch. 1: Handling Exceptions]()
+## 1 - [Introduction](#ch-1-)
 
-## [Ch. 2: Templates]()
