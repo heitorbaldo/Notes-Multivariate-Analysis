@@ -1,11 +1,10 @@
-# Notes on Multivariate Analysis
+# Topics on Artificial Intelligence in Neuroimaging
 
 
 Table of Contents
 =================
 
   * [Introduction](#ch-1-)
-  * [PCA](#ch-2-)
 
   
 ---
